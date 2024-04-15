@@ -1,7 +1,6 @@
 # RP
 
-Update Leden:
-Dokumetace přepsána z wordu do latexu 
-Vymodelování 3D modelů na tisk
-Předělání anotace (zadefinování "paletky")
-Dopsání úvodu
+Update Březen:
+Dopsány součástky 
+Postup modelování a tisku
+Upraven úvod
